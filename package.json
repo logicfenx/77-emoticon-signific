@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/77-emoticon-signific",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a 77-emoticon-signific",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/77-emoticon-signific.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://coscouture.com/es/77-emoticon-significado/"
+    },
+    "homepage": "https://coscouture.com/es/77-emoticon-significado/"
+}
